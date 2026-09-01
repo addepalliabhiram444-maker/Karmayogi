@@ -1,0 +1,6 @@
+{
+  "name": "StatLearn AI - National Statistical Learning Platform",
+  "description": "AI-powered competency development and personalized learning platform for India's Official Statistical System with editorial design aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
